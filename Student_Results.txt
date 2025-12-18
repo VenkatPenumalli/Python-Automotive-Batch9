@@ -1,0 +1,10 @@
+Student Marks Report
+Student: Venkat
+Maths : 95.0
+Python : 95.0
+Automata : 90.0
+ML : 95.0
+Data Analytics : 95.0
+Total Marks : 470.0
+Percentage : 94.0
+Grade : A
