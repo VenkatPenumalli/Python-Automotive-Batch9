@@ -1,0 +1,17 @@
+<Patients>
+    <Patient>
+        <MedicalIssue>Asthama</MedicalIssue>
+    </Patient>
+    <Patient>
+        <MedicalIssue>Sugar</MedicalIssue>
+    </Patient>
+    <Patient>
+        <MedicalIssue>Migrane</MedicalIssue>
+    </Patient>
+    <Patient>
+        <MedicalIssue>BloodPressure</MedicalIssue>
+    </Patient>
+    <Patient>
+        <MedicalIssue>Synus</MedicalIssue>
+    </Patient>
+</Patients>
