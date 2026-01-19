@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Cars><Car><Name>Scoda</Name>
+<Mileage>18</Mileage>
+<Fuel_consumption>5.4</Fuel_consumption>
+</Car>
+<Car>
+<Name>Volkswagen</Name>
+<Mileage>20</Mileage>
+<Fuel_consumption>6</Fuel_consumption>
+</Car>
+</Cars>

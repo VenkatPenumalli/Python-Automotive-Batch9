@@ -1,0 +1,8 @@
+group 3 
+
+name     id      mail
+vishnu   1       mem@mail
+venkat   2       mei@mail
+deepak   3       cord@mail
+sai ram  4       mel@mail
+sania    5       her@mail

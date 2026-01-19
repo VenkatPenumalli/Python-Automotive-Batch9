@@ -1,0 +1,7 @@
+Name=Scoda
+Mileage=18
+Fuel_consumption=5.4
+
+Name=Volkswagen
+Mileage=20
+Fuel_consumption=6
