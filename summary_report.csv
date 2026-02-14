@@ -1,0 +1,4 @@
+Task,WCET(ms),BCET(ms),Average(ms),Jitter(ms),Violations
+Brake_Pedal_Read,6.977,4.021,5.42,2.956,34
+ABS_Control,13.967,8.031,11.011,5.936,35
+Brake_Output,6.983,4.048,5.624,2.935,35

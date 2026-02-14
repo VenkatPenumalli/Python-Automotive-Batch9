@@ -1,0 +1,18 @@
+AUTOSAR TIMING AND PERFORMANCE TEST REPORT
+========================================
+
+Task Name: BrakeSensorTask
+Average Execution Time: 6.40 ms
+Maximum Execution Time: 8.40 ms
+Timing Violations: 1
+----------------------------------------
+Task Name: BrakeCalcTask
+Average Execution Time: 11.60 ms
+Maximum Execution Time: 14.40 ms
+Timing Violations: 2
+----------------------------------------
+Task Name: BrakeActuatorTask
+Average Execution Time: 10.80 ms
+Maximum Execution Time: 16.80 ms
+Timing Violations: 2
+----------------------------------------
